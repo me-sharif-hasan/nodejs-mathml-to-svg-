@@ -1,0 +1,23 @@
+{
+  "name": "math-ml-api",
+  "version": "1.0.0",
+  "description": "an api to convert math ml code into html/svg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mathml",
+    "html",
+    "css",
+    "nodejs",
+    "api"
+  ],
+  "author": "Sharif Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mathjax-node": "^2.1.1",
+    "package.json": "^2.0.1"
+  }
+}
