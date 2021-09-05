@@ -7,6 +7,7 @@ var mj=require("mathjax-node");
 mj.config({
   MathJax: {
     //To do
+	SVG: { linebreaks: { automatic: true } }
   }
 });
 mj.start();
